@@ -1,0 +1,3 @@
+# my servers
+fake.invalid
+localhost
